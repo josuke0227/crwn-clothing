@@ -1,0 +1,2 @@
+Add spinner to signin / signout when the process is on the way
+Refresh page when user signout
