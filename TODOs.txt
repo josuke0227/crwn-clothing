@@ -1,0 +1,13 @@
+Empty the shopping cart when user checked out successfully.
+
+Use can remove cart item from cart-dropdown.
+
+Redirect to not found page when user tried to access to invalid url
+
+Signin / Signup page => 
+  display only one of those form, not side by side,
+  put link so that registered user can go to signin form.
+
+  When user tryed to signin / signup with their own credentials and
+  when they hit the submit button, show spinner while wating for response of fire base.
+
