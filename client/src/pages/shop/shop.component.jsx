@@ -1,4 +1,4 @@
-import { useEffect } from "react";
+import { useEffect, lazy } from "react";
 
 import { Route } from "react-router-dom";
 import { connect } from "react-redux";
